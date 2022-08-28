@@ -1,0 +1,12 @@
+figure {
+    margin-left: 0px;
+}
+
+figcaption {
+    font-size: 15px;
+    text-align: center;
+}
+
+ol > li {
+    margin-bottom: 10px;
+}
