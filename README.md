@@ -1,2 +1,3 @@
 # recipes-website
-A website containing pages with recipes
+
+A website with recipes on it
